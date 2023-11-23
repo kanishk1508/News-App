@@ -13,3 +13,7 @@ News Vista is a web application that provides the latest news across various cat
 When we searched Uttarakhand in the placeholder above :
 
 ![When searched Uttarakhand](https://github.com/kanishk1508/News-App/assets/140045251/dbb8f5e5-a72f-4b78-842d-710aaafe6397)
+
+Quick video on how this website works -:
+
+https://drive.google.com/file/d/1tSxrSIAtvNtkfQeOrKYDGu4j7e2vDPT0/view?usp=sharing
